@@ -10,12 +10,16 @@ int main(){
     //     printf("%d",a[i]);
     // }
 
+
+
     // int a[5]={1,2,3,4,5};
     // int sum=0;
     // for (int i=0;i<5;i++){
     //     sum=sum+a[i];
     // }
     // printf("%d",sum);
+
+
 
     // int a[5]={10,40,50,69,25};
     // int max=0;
@@ -37,7 +41,7 @@ int main(){
         //  }
         //  printf("%d",min);
 
-
+   
         
     
 }
