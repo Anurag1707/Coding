@@ -42,6 +42,15 @@ int main(){
         //  printf("%d",min);
 
    
-        
+      int a[5];
+      for(int j=0;j<5;j++){
+        scanf("%d",&a[5]);
+      }
+      int max=0;
+      for(int i=0;i<5;i++){
+           if(a[i]<a[i+1]){
+            max=a[i+1];
+           }
+      }  printf("%d",max);
     
 }
