@@ -7,8 +7,7 @@ int main(){
             if(i==0 || i==2){
                 printf(" %d",a[i][j]);
             }else if(j==i){
-                printf("  
-                    %d",a[i][j]);
+                printf("  %d",a[i][j]);
             }else { printf(" "); }
         }printf("\n");
     }
