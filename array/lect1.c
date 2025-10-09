@@ -42,7 +42,7 @@ int main(){
         //  printf("%d",min);
 
    
-      int a[5];
+      int a[5]={1,2,3,4,5};
       for(int j=0;j<5;j++){
         scanf("%d",&a[5]);
       }
