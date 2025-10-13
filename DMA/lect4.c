@@ -4,7 +4,7 @@ int main(){
     int n;
     printf("Enter size: ");
     scanf("%d",&n);
-    int *arr = (int *)malloc(n*sizeof(int));
+    int *arr = (int *)calloc(n, sizeof(int));
 
     printf("Enter %d elements:\n",n);
     for(int i=0;i<n;i++){
@@ -15,5 +15,6 @@ int main(){
         printf("%d ",arr[i]);
     }
 }
-// malloc- memory create karege block nhi banayega
- // default =garbage value
+//Calloc- garbage value=0
+//block dega or block ka size =4
+//default = 0

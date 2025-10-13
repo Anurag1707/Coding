@@ -24,3 +24,4 @@ int newSize;
         printf("%d ",arr[i]);
     }
 }
+// realloc- update
