@@ -19,7 +19,7 @@ int main(){
         if(height[i]<height[j]){
             i++;
         }else{
-            j--;
+            j--; 
         }
 
      }
