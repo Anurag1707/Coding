@@ -52,5 +52,6 @@ int main(){
             max=a[i+1];
            }
       }  printf("%d",max);
+      printf("your name");
     
 }
