@@ -7,4 +7,5 @@ int main(){
     printf("\n%d",a);
     printf("\n%d",*a);
     //yes
+    //yesssss
 }
