@@ -2,7 +2,7 @@
 
 int main() {
     int a = 10;
-    int *p;      // pointer declaration
+    int *p;      // pointer declaration..
 
     p = &a;      // store address of a
 
