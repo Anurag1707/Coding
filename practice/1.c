@@ -9,7 +9,7 @@ int main(){
        int currentsum=0;
        for(int j=0;j<i;j++){
           //yess
-           //iii
+           
        
        
         }
