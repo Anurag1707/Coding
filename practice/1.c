@@ -8,10 +8,7 @@ int main(){
    for(int i=0;i<5;i++){
        int currentsum=0;
        for(int j=0;j<i;j++){
-          
-           
-       
-       
+         
         }
        }
     
