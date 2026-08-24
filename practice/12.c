@@ -12,4 +12,5 @@ int main() {
     printf("Value at address p = %d\n", *p);  // dereferencing
 
     return 0;
+    
 }
