@@ -11,6 +11,7 @@ int main() {
     printf("Value stored in pointer p = %p\n", p);
     printf("Value at address p = %d\n", *p);  // dereferencing
 
+    
     return 0;
     
 }
