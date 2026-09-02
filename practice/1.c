@@ -3,6 +3,7 @@
 int main(){
    int arr[5]={3,2,7,4,8};
    int k=2;
+
    
    int max=0;
    for(int i=0;i<5;i++){
