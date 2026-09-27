@@ -8,6 +8,6 @@ int main(){
     printf("\n%d",*a);
 
     
-    //yes
+    
     //yesssss
 }
