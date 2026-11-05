@@ -6,7 +6,6 @@ int main(){
 
    int max=0;
    
-   
    for(int i=0;i<5;i++){
        int currentsum=0;6
        for(int j=0;j<i;j++){
