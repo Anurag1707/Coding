@@ -6,8 +6,6 @@ int main(){
     printf("\n%d",&x);
     printf("\n%d",a);
     printf("\n%d",*a);
-
-    
     
     //yesssss
 }
